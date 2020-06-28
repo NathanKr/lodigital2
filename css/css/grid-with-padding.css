@@ -1,0 +1,14 @@
+.grid-item{
+    float:left;
+    width:25%;
+    border:1px solid blue;
+    height:350px;
+    box-sizing: border-box;
+    padding:20px;
+}
+
+img{
+    /* using responsive web design can provide better solution than 100% */
+    width:100%;
+    height:200px;
+}
